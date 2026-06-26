@@ -1,6 +1,6 @@
 <div align="center">
 
-# Byeong gab Song · 송병갑
+# Byeonggab Song · 송병갑
 
 **🌐 English · [한국어](README.ko.md)**
 
@@ -18,11 +18,11 @@ I bring risk-modeling rigor and real-time data instincts from financial markets 
 
 ## 👋 About
 
-> In finance, a model that looks perfect is usually leaking. That instinct now drives how I build industrial AI.
+> A model that looks perfect is usually leaking somewhere. Finance taught me that suspicion, and it's how I work now.
 
-My background is in **quantitative finance** — research and trading at a crypto hedge fund and VC, where I built the **Python automation bots that ran the desk** (real-time alpha tracking, anomaly and gap detection, signal monitoring) and published **300+** data-driven research reports. Being wrong cost money, and a leaking signal could blow up a position.
+I came up in crypto-finance — research and trading at a hedge fund and VC, where I analyzed projects, took positions, and built the Python bots my desk actually ran on: real-time alpha tracking, anomaly and gap detection, signal monitoring. I wrote **300+** research reports along the way. When being wrong costs you money, you learn to distrust data that looks too clean.
 
-I now bring that instinct — real-time data systems, quantitative optimization, and leakage-aware evaluation — to **industrial AI and data engineering**: manufacturing ML, energy optimization, agentic data pipelines, and deployed systems.
+I bring that same habit to the factory floor now — working with real-time data, optimizing for cost, and pushing on a model until I'm sure it actually holds. Manufacturing ML, energy optimization, agentic pipelines, and systems that actually ship.
 
 I don't trust a model until I've tried to break it.
 
