@@ -2,6 +2,8 @@
 
 # Byeong gab Song · 송병갑
 
+**🌐 English · [한국어](README.ko.md)**
+
 ### Industrial AI & Data Engineer
 
 **Quantitative finance → industrial AI.**
