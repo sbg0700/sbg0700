@@ -106,7 +106,7 @@ MCP + 로컬 LLM, 완전 **폐쇄망**, **감사 대응**(IATF 16949 / 21 CFR Pa
 
 ## 🎓 Education & Certifications
 
-- 🎓 **경영학 학사**, 동국대학교
+- 🎓 **경영학 학사**, 동국대학교 DUICA
 - 🧪 **삼성 AXI K-Digital Training**(AI & 데이터) · **Schneider Electric Academy**(반도체/배터리 산업 솔루션) · **Build with AI Seoul 2026**(with Google DeepMind)
 - 📜 ADsP · 빅데이터분석기사(필기) · 투자자산운용사
 
